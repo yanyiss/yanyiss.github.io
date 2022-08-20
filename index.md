@@ -52,8 +52,8 @@
     <h2>Biography</h2>
     <p style="text-align:justify;">
       我是 <a href="http://en.ustc.edu.cn/" target="_blank">中国科学技术大学</a>的一名博士生,
-      指导老师是 <a href="http://staff.ustc.edu.cn/~lgliu">刘利刚教授</a> and <a href="http://staff.ustc.edu.cn/~fuxm">傅孝明副教授</a>.
-	此前我在2020年于中国科学技术大学获得数学与应用数学学士学位.
+      指导老师是 <a href="http://staff.ustc.edu.cn/~lgliu">刘利刚教授</a> 和 <a href="http://staff.ustc.edu.cn/~fuxm">傅孝明副教授</a>.
+	此前我于2020年在中国科学技术大学获得计算数学学士学位.
     </p>
   </tr>
  
