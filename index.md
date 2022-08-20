@@ -15,7 +15,7 @@
 <body>
 <div id="layout-content" style="margin-top:25px">
 
-<table  border="0" width="100%"> <tbody>
+<table  border="0" align="center" width="100%"> <tbody>
   <tr>
     
     <td width="50%">
@@ -37,7 +37,7 @@
 					中国科学技术大学东校区 <br>
 					管理科研楼1314室 <br>
 					<br>
-					Email: duweiyou@mail.ustc.edu.cn
+					邮箱: duweiyou@mail.ustc.edu.cn
 
       </p>
       <a href="/index-en.html">English Version</a>
