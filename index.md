@@ -25,12 +25,12 @@
       <b><font face="Times New Roman" size="6">Wei Du</font></b>
       <br> 
       <p>       
-          <br>
-			<a href="http://gcl.ustc.edu.cn/" target="_blank">图形与计算几何实验室</a>
-			<br>
-			<a href="http://math.ustc.edu.cn/" target="_blank">数学科学学院 </a>
 			<br>
 			<a href="https://www.ustc.edu.cn/" target="_blank">中国科学技术大学</a>
+			<br>
+			<a href="http://math.ustc.edu.cn/" target="_blank">数学科学学院 </a>
+      <br>
+			<a href="http://gcl.ustc.edu.cn/" target="_blank">图形与计算几何实验室</a>
 
           <br><br>
 					中国安徽合肥，230026 <br>
