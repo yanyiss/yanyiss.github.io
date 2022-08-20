@@ -18,7 +18,7 @@
 <table  border="0" width="100%"> <tbody>
   <tr>
     <td width="30%" valign="top" height="173">
-      <img height="255" id="photo" style="padding: 0pt 30pt 0pt 0pt; float: left; display: inline;" src="./head.jpg">
+      <img height="255" id="photo" style="padding: 0pt 30pt 0pt 0pt; float: left; display: inline;" width="256" height="256" src="./head.jpg">
     </td>
     
     <td width="80%" valign="top" height="173">
@@ -48,7 +48,7 @@
 
 
 <table  border="0" width="100%"> <tbody>
-   <tr>
+  <tr>
     <h2>Biography</h2>
     <p style="text-align:justify;">
       I have received my Ph.D. degree from <a href="http://en.ustc.edu.cn/" target="_blank">University of Science and Technology of China</a>,
@@ -59,15 +59,5 @@
  
     <h2>Research interests </h2>
     Geometric processing, Conformal geometry, 3D fabrication, etc.
-
-<!--  
-  <tr>
-    <h2>News</h2>
-    <ul style="list-style-type:disc">
-      <li> Sep. 19, 2018: . </li>
-    </ul>
-  </tr>
-  -->
-  
 </tbody></table>
 
