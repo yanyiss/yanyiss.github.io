@@ -36,11 +36,11 @@
 			<a href="http://en.ustc.edu.cn/" target="_blank">University of Science and Technology of China (USTC)</a>
 
           <br><br>
-					Room 1412, Management and Research Building <br>
+					Room 1314, Management and Research Building <br>
 					East Campus, University of Science and Technology of China <br>
 					Hefei, Anhui, 230026, P.R.China <br>
 					<br>
-					Email: fq1208 AT mail.ustc.edu.cn
+					Email: duweiyou@mail.ustc.edu.cn
 
       </p>
     </td>
@@ -72,9 +72,3 @@
   
 </tbody></table>
 
-<table  border="0" width="100%"> <tbody>
-<h2>Publications</h2>
-
-</div>
-</body>
-</html>
