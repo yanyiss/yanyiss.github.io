@@ -21,8 +21,6 @@
     <td width="80%" valign="top" height="173">
       <b><font face="Times New Roman" size="6">Wei Du</font><font size="6" face="楷体_GB2312"> （杜伟）</font><font face="Times New Roman" size="6"></font></b>
       <br> 
-      <b><font face="Times New Roman" size="5">Postdoctoral Fellow @ USTC</font></b> 
-      <br>
       <p>       
           <br>
 			<a href="http://gcl.ustc.edu.cn/" target="_blank">Graphics&Geometric Computing Laboratory</a>
@@ -55,11 +53,11 @@
     <p style="text-align:justify;">
       I am currently a Fifth-year PHD student at <a href="http://en.ustc.edu.cn/" target="_blank">University of Science and Technology of China</a>,
       supervised by <a href="http://staff.ustc.edu.cn/~lgliu">Prof. Ligang Liu</a> and <a href="http://staff.ustc.edu.cn/~fuxm">Assoc. Prof. Xiao-Ming Fu</a>.
-	Before that, I also received my Bachelor of Mathematics and Applied Mathematics from University of Science and Technology of China in 2020.
+	Before that, I received my Bachelor of Mathematics and Applied Mathematics from University of Science and Technology of China in 2020.
     </p>
   </tr>
  
     <h2>Research interests </h2>
-    Geometric processing, Mesh Generation and Optimization, etc.
+    Geometric Processing, Mesh Generation and Optimization, etc.
 </tbody></table>
 
