@@ -18,7 +18,7 @@
 <table  border="0" width="100%"> <tbody>
   <tr>
     
-    <td width="100%">
+    <td width="50%">
       <img src="/head.jpg" width="100%">
     </td>
     <td width="80%" valign="top" height="173">
