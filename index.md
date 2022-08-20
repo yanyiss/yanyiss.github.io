@@ -17,6 +17,7 @@
 
 <table  border="0" width="100%"> <tbody>
   <tr>
+    <a href="/index-en.html">English Version</a>
     <td width="25%">
       <img src="/head.jpg" width="100%">
     </td>
