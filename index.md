@@ -49,7 +49,7 @@
 
 <table  border="0" width="100%"> <tbody>
   <tr>
-    <h2>Biography</h2>
+    <h2>教育经历</h2>
     <p style="text-align:justify;">
       我是 <a href="http://en.ustc.edu.cn/" target="_blank">中国科学技术大学</a>的一名博士生,
       指导老师是 <a href="http://staff.ustc.edu.cn/~lgliu">刘利刚教授</a> 和 <a href="http://staff.ustc.edu.cn/~fuxm">傅孝明副教授</a>.
