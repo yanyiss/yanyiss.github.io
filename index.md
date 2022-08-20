@@ -51,13 +51,13 @@
   <tr>
     <h2>Biography</h2>
     <p style="text-align:justify;">
-      I am currently a Fifth-year PHD student at <a href="http://en.ustc.edu.cn/" target="_blank">中国科学技术大学</a>,
-      supervised by <a href="http://staff.ustc.edu.cn/~lgliu">Prof. Ligang Liu</a> and <a href="http://staff.ustc.edu.cn/~fuxm">Assoc. Prof. Xiao-Ming Fu</a>.
-	Before that, I received my Bachelor of Mathematics and Applied Mathematics from University of Science and Technology of China in 2020.
+      我是 <a href="http://en.ustc.edu.cn/" target="_blank">中国科学技术大学</a>的一名博士生,
+      指导老师是 <a href="http://staff.ustc.edu.cn/~lgliu">刘利刚教授</a> and <a href="http://staff.ustc.edu.cn/~fuxm">傅孝明副教授</a>.
+	此前我在2020年于中国科学技术大学获得数学与应用数学学士学位.
     </p>
   </tr>
  
-    <h2>Research interests </h2>
-    Geometric Processing, Mesh Generation and Optimization, etc.
+    <h2>研究方向 </h2>
+    几何处理，网格生成与优化等.
 </tbody></table>
 

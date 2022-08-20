@@ -51,7 +51,7 @@
   <tr>
     <h2>Biography</h2>
     <p style="text-align:justify;">
-      I am currently a Fifth-year PHD student at <a href="http://en.ustc.edu.cn/" target="_blank">University of Science and Technology of China</a>,
+      I am currently a Third-year PHD student at <a href="http://en.ustc.edu.cn/" target="_blank">University of Science and Technology of China</a>,
       supervised by <a href="http://staff.ustc.edu.cn/~lgliu">Prof. Ligang Liu</a> and <a href="http://staff.ustc.edu.cn/~fuxm">Assoc. Prof. Xiao-Ming Fu</a>.
 	Before that, I received my Bachelor of Mathematics and Applied Mathematics from University of Science and Technology of China in 2020.
     </p>
