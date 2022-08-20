@@ -15,7 +15,7 @@
 <body>
 <div id="layout-content" style="margin-top:25px">
 
-<table  border="0" align="center" width="100%"> <tbody>
+<table align="center" width="100%"> <tbody>
   <tr>
     
     <td width="50%">
