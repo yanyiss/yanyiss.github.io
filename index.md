@@ -18,6 +18,9 @@
 <table  border="0" width="100%"> <tbody>
   <tr>
     
+    <td width="100%">
+      <img src="/head.jpg" width="100%">
+    </td>
     <td width="80%" valign="top" height="173">
       <b><font face="Times New Roman" size="6">Wei Du</font><font size="6" face="楷体_GB2312"> （杜伟）</font><font face="Times New Roman" size="6"></font></b>
       <br> 
@@ -40,9 +43,6 @@
       <a href="/index-en.html">English Version</a>
     </td>
     
-    <td width="100%">
-      <img src="/head.jpg" width="100%">
-    </td>
   </tr>
 </tbody> </table>
 
