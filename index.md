@@ -2,13 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" slick-uniqueid="3">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="keywords" content="Qing Fang, University of Science and Technology of China, USTC, 方清, 中科大, computer graphics, geometry"> 
-<meta name="description" content="Qing Fang&#39;s home page">
+<meta name="keywords" content="Wei Du, University of Science and Technology of China, USTC, 杜伟, 中国科学技术大学, computer graphics, geometry"> 
+<meta name="description" content="Wei Du&#39;s home page">
 <link rel="stylesheet" href="./Homepage_files/style/jemdoc.css" type="text/css">
 <style type="text/css">
 </style>
-<title>Qing Fang - Homepage</title>
-<link rel="shortcut icon" href="./Homepage_files/img/homepage.ico" >
+<title>Wei Du - Homepage</title>
+<link rel="shortcut icon" href="./head.jpg" >
 <!--link rel="shortcut icon" type="image/gif" href="./Homepage_files/img/animated_favicon1.gif" -->
 </head>
 
@@ -19,11 +19,11 @@
 <table  border="0" width="100%"> <tbody>
   <tr>
     <td width="19%" valign="top" height="173">
-      <img height="255" id="photo" style="padding: 0pt 30pt 0pt 0pt; float: left; display: inline;" src="./Homepage_files/img/me.jpg">
+      <img height="255" id="photo" style="padding: 0pt 30pt 0pt 0pt; float: left; display: inline;" src="./head.jpg">
     </td>
     
     <td width="80%" valign="top" height="173">
-      <b><font face="Times New Roman" size="6">Qing Fang</font><font size="6" face="楷体_GB2312"> （方清）</font><font face="Times New Roman" size="6"></font></b>
+      <b><font face="Times New Roman" size="6">Wei Du</font><font size="6" face="楷体_GB2312"> （杜伟）</font><font face="Times New Roman" size="6"></font></b>
       <br> 
       <b><font face="Times New Roman" size="5">Postdoctoral Fellow @ USTC</font></b> 
       <br>
@@ -74,57 +74,6 @@
 
 <table  border="0" width="100%"> <tbody>
 <h2>Publications</h2>
-
-<!-- Developability-Driven Piecewise Approximations for Triangular Meshes -->
-<tr>
-  <td>
-    <div align="center">
-      <img width="180" src="./Developability/EdgeDevelop.png" alt="">
-    </div>
-  </td>
-  <td>
-    <a href="https://qingfang1208.github.io" target="_blank">Developability-Driven Piecewise Approximations for Triangular Meshes</a>        
-    <br>
-    Zheng-Yu Zhao,
-    <a href="https://qingfang1208.github.io" target="_blank"><strong>Qing Fang</strong></a>, 
-    Wenqing Ouyang,
-    Zheng Zhang,
-    <a href="http://staff.ustc.edu.cn/~lgliu" target="_blank">Ligang Liu</a>, 
-    <a href="http://staff.ustc.edu.cn/~fuxm" target="_blank">Xiao-Ming Fu</a>
-    <br> 
-    ACM Transactions on Graphics (SIGGRAPH), 41(4), 2022. 
-    <br>
-    [<a href="https://qingfang1208.github.io" target="_blank">Code</a>]
-	  [<a href="https://qingfang1208.github.io" target="_blank">Data</a>]
-    [<a href="https://qingfang1208.github.io" target="_blank">Video</a>]
-    [<a href="https://qingfang1208.github.io" target="_blank">DOI</a>]
-  </td>
-</tr>
-
-<!-- Computing Sparse Integer-Constrained Cones for Conformal Parameterizations -->
-<tr>
-  <td>
-    <div align="center">
-      <img width="180" src="./Sparse_Intcones/intcone.png" alt="">
-    </div>
-  </td>
-  <td>
-    <a href="https://qingfang1208.github.io" target="_blank">Computing Sparse Integer-Constrained Cones for Conformal Parameterizations</a>        
-    <br>
-    Mo Li,
-    <a href="https://qingfang1208.github.io" target="_blank"><strong>Qing Fang</strong></a>, 
-    Wenqing Ouyang,
-    <a href="http://staff.ustc.edu.cn/~lgliu" target="_blank">Ligang Liu</a>, 
-    <a href="http://staff.ustc.edu.cn/~fuxm" target="_blank">Xiao-Ming Fu</a>
-    <br> 
-    ACM Transactions on Graphics (SIGGRAPH), 41(4), 2022. 
-    <br>
-    [<a href="https://qingfang1208.github.io" target="_blank">Code</a>]
-	  [<a href="https://qingfang1208.github.io" target="_blank">Data</a>]
-    [<a href="https://qingfang1208.github.io" target="_blank">DOI</a>]
-  </td>
-</tr>
-
 
 </div>
 </body>
