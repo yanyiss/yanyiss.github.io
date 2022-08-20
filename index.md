@@ -22,7 +22,7 @@
       <img src="/head.jpg" width="100%">
     </td>
     <td width="80%" valign="top" height="173">
-      <b><font face="Times New Roman" size="6">Wei Du</font></b>
+      <b><font face="Times New Roman" size="6">杜伟</font></b>
       <br> 
       <p>       
 			<br>
