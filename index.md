@@ -42,7 +42,7 @@
       <a href="/index-en.html">English Version</a>
     </td>
     
-    <td width="50%">
+    <td width="100%">
       <img src="/head.jpg" width="100%">
     </td>
   </tr>
@@ -53,13 +53,13 @@
   <tr>
     <h2>Biography</h2>
     <p style="text-align:justify;">
-      I have received my Ph.D. degree from <a href="http://en.ustc.edu.cn/" target="_blank">University of Science and Technology of China</a>,
-      supervised by <a href="http://staff.ustc.edu.cn/~lgliu">Prof. Ligang Liu</a> and <a href="http://staff.ustc.edu.cn/~fuxm">Dr. Xiao-Ming Fu</a>.
-	Before that, I also received my Bachelor of Mathematics and Applied Mathematics from University of Science and Technology of China in 2015.
+      I am currently a Fifth-year PHD student at <a href="http://en.ustc.edu.cn/" target="_blank">University of Science and Technology of China</a>,
+      supervised by <a href="http://staff.ustc.edu.cn/~lgliu">Prof. Ligang Liu</a> and <a href="http://staff.ustc.edu.cn/~fuxm">Assoc. Prof. Xiao-Ming Fu</a>.
+	Before that, I also received my Bachelor of Mathematics and Applied Mathematics from University of Science and Technology of China in 2020.
     </p>
   </tr>
  
     <h2>Research interests </h2>
-    Geometric processing, Conformal geometry, 3D fabrication, etc.
+    Geometric processing, Mesh Generation and Optimization, etc.
 </tbody></table>
 
