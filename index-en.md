@@ -7,7 +7,7 @@
 <style type="text/css">
 </style>
 <title>Wei Du - Homepage</title>
-<link rel="shortcut icon" href="./head.jpg" >
+<link rel="shortcut icon" href="./duwei.jpg" >
 <!--link rel="shortcut icon" type="image/gif" href="./Homepage_files/img/animated_favicon1.gif" -->
 </head>
 
@@ -19,7 +19,7 @@
   <tr>
     
     <td width="50%">
-      <img src="/head.jpg" width="100%">
+      <img src="/duwei.jpg" width="100%">
     </td>
     <td width="80%" valign="top" height="173">
       <b><font face="Times New Roman" size="6">Wei Du</font><font size="6" face="楷体_GB2312"> （杜伟）</font><font face="Times New Roman" size="6"></font></b>
